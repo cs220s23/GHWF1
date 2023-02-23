@@ -4,9 +4,9 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
-Matt Simcoe
-Austin Leibensperger
+*Ben Coleman
+*Matt Simcoe
+*Austin Leibensperger
 
 ## Setup
 
